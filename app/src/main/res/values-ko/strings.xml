@@ -63,7 +63,14 @@
     <string name="shizuku_description">Shizuku는 일반 앱이 루팅되지 않은 기기에서 ADB를 사용하여 상승된 권한으로 시스템 API를 직접 사용할 수 있도록 허용합니다</string>
     <string name="good_to_go">준비!</string>
     <plurals name="used_for_tiles">
-        <item quantity="other">%1$s 타일에 사용됨
-\n%1$s 타일에 사용됨</item>
+        <item quantity="other">%1$s 타일에 사용됨</item>
     </plurals>
+    <string name="connected">연결됨</string>
+    <string name="hide_wifi_name">Wi-Fi 이름을 숨김</string>
+    <string name="visible">표시</string>
+    <string name="hidden">숨김</string>
+    <string name="hidden_during_recording">기록 중에 숨김</string>
+    <string name="hide_wifi_name_description">설정은 Wi-Fi 및 인터넷 제목 모두에 적용됩니다</string>
+    <string name="behaviour">행위</string>
+    <string name="look">외관</string>
 </resources>
