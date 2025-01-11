@@ -4,7 +4,7 @@
     <string name="nfc">NFC</string>
     <string name="turning_on">Включение…</string>
     <string name="not_connected">Не подключено</string>
-    <string name="require_unlock_title">Требуется разблокировка</string>
+    <string name="require_unlock_title">Требовать разблокировку</string>
     <string name="github_title">GitHub репозиторий</string>
     <string name="xda_title">Обсуждение на XDA Developers</string>
     <string name="about">Сведения</string>
@@ -12,13 +12,13 @@
     <string name="internet">Интернет</string>
     <string name="network_not_available">Сеть недоступна</string>
     <string name="tile_added_error">Не удалось добавить переключатель</string>
-    <string name="off">Выкл.</string>
+    <string name="off">Откл.</string>
     <string name="mobile_data">Мобильные данные</string>
     <string name="on">Вкл.</string>
     <string name="restart_app_title">Перезапустить приложение</string>
     <string name="settings">Настройки</string>
     <string name="feedback_title">Обратная связь/сообщить об ошибке</string>
-    <string name="restart_app_summary">Перезапустите приложение, если что-то кажется не так.</string>
+    <string name="restart_app_summary">Перезапустите приложение, если что-то не так.</string>
     <string name="toast_foreground_service_error">Не удалось запустить фоновую службу. Пожалуйста, свяжитесь с разработчиком.</string>
     <string name="no_service">Нет сигнала</string>
     <string name="airplane_mode">Режим полёта</string>
@@ -26,7 +26,7 @@
     <string name="hide_service_description">Это уведомление обеспечивает правильную работу плиток с Shizuku. Уведомление можно скрыть.</string>
     <string name="language">Язык</string>
     <string name="help_translate">Помогите перевести это приложение!</string>
-    <string name="shell_access_not_set_up">Для использования этого переключателя необходимы права супер-пользователя или повышенные привилегии с помощью Shizuku</string>
+    <string name="shell_access_not_set_up">Для использования этого переключателя необходимы права супер-пользователя или привилегии повышенные с помощью Shizuku</string>
     <string name="require_unlock_summary">Запретить переключение сетевых режимов на экране блокировки</string>
     <string name="sim_not_available">SIM-карта недоступна</string>
     <string name="connecting">Подключение…</string>
@@ -34,7 +34,7 @@
     <string name="tile_added">Переключатель добавлен</string>
     <string name="tile_already_added">Переключатель уже добавлен</string>
     <string name="available_tiles">Доступные переключатели</string>
-    <string name="home">Домашняя страница</string>
+    <string name="home">Главная</string>
     <string name="app_info">Информация о приложении</string>
     <string name="version">Версия</string>
     <string name="root_description">Самый простой способ повысить привилегии приложения, если ваш телефон имеет права супер-пользователя</string>
@@ -48,7 +48,7 @@
     <string name="good_to_go_description">Все необходимые разрешения предоставлены, посмотрите доступные плитки внизу!</string>
     <string name="missing_permissions">Разрешения не предоставлены</string>
     <string name="shell_access">Корневой доступ</string>
-    <string name="shell_method">Метод предоставления привилегий</string>
+    <string name="shell_method">Метод привилегий</string>
     <string name="read_phone_state">Получение данных о статусе телефона</string>
     <string name="read_phone_state_description">Разрешение \'Получение данных о статусе телефона\' требуется для чтения информации о подключении к мобильной сети.</string>
     <string name="bluetooth_connect">Подключение с помощью Bluetooth</string>
@@ -56,7 +56,7 @@
     <string name="allow_root_access">Разрешить доступ к правам супер-пользователя</string>
     <string name="allow_shizuku_access">Доступ к Shizuku</string>
     <string name="allow_shizuku_access_description">Убедитесь, что приложению \'Better Internet Tiles\' предоставлен доступ к приложению Shizuku и что процесс Shizuku запущен</string>
-    <string name="auto_start_shizuku_description">А вы знали, что можно автоматически запускать Shizuku при загрузке устройства, и для этого не нужен root? Загляните в $$this reddit thread$$ для получения дополнительной информации о том, как это настроить.</string>
+    <string name="auto_start_shizuku_description">А вы знали, что можно автоматически запускать Shizuku при загрузке устройства, и для этого не нужен root? Загляните в $$ветку на Reddit$$ для получения дополнительной информации о том, как это настроить.</string>
     <string name="allow_root_access_description">Разрешите root-доступ для приложения \"Better Internet Tiles\" в вашем приложении для управления root-доступом (напр. Magisk Manager)</string>
     <string name="shizuku_description">Shizuku позволяет обычным приложениям использовать системные API напрямую с повышенными привилегиями с помощью ADB на устройствах без прав супер-пользователя</string>
     <string name="auto">Авто</string>
